@@ -1,4 +1,4 @@
 # Simple-Calculator
 A simple Calculator is made by Python
 
-![cal image](image.png "Calculator")
+![cal image](/image.PNG)
