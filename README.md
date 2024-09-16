@@ -15,7 +15,7 @@ This is a **simple calculator** application built using **Python**. It provides 
 - Equals (=)
 
 ## Screenshot:
-![cal image](./image.png)
+![cal image](/image.PNG)
 
 ## How to Use:
 1. Run the Python script to launch the calculator.
